@@ -1,4 +1,5 @@
 # Node Core versus Userland
+
 Occasionally, in the discussions in the NodeJS mailing lists and IRC channels, you may hear things referred to as "node-core" and "userland".
 
 Of course, traditionally, "userland" or "userspace" refer to everything outside the operating system kernel.  In that sense, Node itself is a "userland" program.
